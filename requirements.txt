@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+cryptography
+python-dotenv
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+pypdf
+docx2txt
+tiktoken
+pysqlite3-binary
+python-multipart
